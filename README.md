@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 Hi I'm Aïcha, a first-year MSCAPP student at the University of Chicago<br>🌱 I’m currently working on 100 days of code projects 
+# Hello, 👋🏾 I'm Aïcha
+
+<img align = "right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFvajhnZmljcG9lbG44dzk5Z2tyczV0cWdwZHVpbzJ4dHNwZzBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EgDOxdofT3jIX8Q5lk/giphy.gif" width="250" height="250"/>
+</p> 
+
+
+🔭 I'm currently an MS in Computational Analysis and Public Policy candidate at the University of Chicago <br>
+🌐 I'm a Data Science Fellow at the Invisible Institute <br>
+🌱 Currently working on 100 Days of Code Projects, Tableau, and JavaScript <br>
+
 
 
 # 💻 Tech Stack:
