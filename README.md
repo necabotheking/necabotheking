@@ -1,4 +1,4 @@
-# Hello, 👋🏾 I'm [Aïcha](necabotheking.github.io)
+# Hello, 👋🏾 I'm [Aïcha](https://necabotheking.github.io/)
 
 <img align = "right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFvajhnZmljcG9lbG44dzk5Z2tyczV0cWdwZHVpbzJ4dHNwZzBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EgDOxdofT3jIX8Q5lk/giphy.gif" width="250" height="250"/>
 </p> 
