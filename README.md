@@ -6,7 +6,7 @@
 
 🔭 I'm currently an MS in Computational Analysis and Public Policy candidate at the University of Chicago <br>
 🌐 I'm a Summer 2023 Data Science Fellow at the Invisible Institute <br>
-🌱 Currently working on 100 Days of Code Projects, Tableau, and JavaScript <br>
+🌱 Currently working on 100 Days of Code Projects, as well as learning Tableau, and JavaScript <br>
 
 
 
