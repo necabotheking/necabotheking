@@ -1,12 +1,11 @@
-# Hello, 👋🏾 I'm [Aïcha](https://necabotheking.github.io/)
-
+# Hello, 👋🏾 I'm Aïcha
+<!--
 <img align = "right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFvajhnZmljcG9lbG44dzk5Z2tyczV0cWdwZHVpbzJ4dHNwZzBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EgDOxdofT3jIX8Q5lk/giphy.gif" width="250" height="250"/>
 </p> 
-
-
+-->
 🔭 I'm currently an MS in Computational Analysis and Public Policy candidate at the University of Chicago <br>
-🌐 I'm a 2023/24 Data Science Fellow at the Invisible Institute <br>
-🌱 Currently working on 100 Days of Code Projects, as well as learning Tableau, and JavaScript <br>
+🌐 I'm a 2023/24 Data Science Fellow at the [Invisible Institute](https://invisible.institute) focusing on police accountability, gender-based violence, and open governance.<br>
+🌱 Currently working on visualizing my Spotify data, developing a playlist recommendation system, and learning JavaScript <br>
 
 
 
@@ -18,8 +17,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-### Data Engineering & Analysis 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Data Engineering 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23323330?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ### Data Science & Machine Learning Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -27,11 +29,13 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ### Data Visualization/Geospatial Mapping
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/geopandas-%139C5A.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Dash](https://img.shields.io/badge/Dash-%23323330.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%23323330.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
 # 📊 GitHub Stats
 [![Aïcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=necabotheking&show_icons=true&rank_icon=github&hide=contribs,stars,issues&show=reviews,prs_merged&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats-one-zeta-45.vercel.app/api/top-langs/?username=necabotheking&hide=jupyter%20notebook&hide_progress=true&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
