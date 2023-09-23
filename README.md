@@ -18,7 +18,8 @@
 ### Data Science & Machine Learning Tools
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=necabotheking&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Aïcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=necabotheking&show_icons=true&rank_icon=github&hide=contribs,stars,issues&show=reviews,prs_merged&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats-one-zeta-45.vercel.app/api/top-langs/?username=necabotheking&hide=jupyter%20notebook&hide_progress=true&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=necabotheking&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=necabotheking&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
