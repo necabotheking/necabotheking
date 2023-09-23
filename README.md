@@ -35,7 +35,6 @@
 ![GeoPandas](https://img.shields.io/badge/geopandas-%139C5A.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Dash](https://img.shields.io/badge/Dash-%23323330.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%23323330.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
 # 📊 GitHub Stats
 [![Aïcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=necabotheking&show_icons=true&rank_icon=github&hide=contribs,stars,issues&show=reviews,prs_merged&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats-one-zeta-45.vercel.app/api/top-langs/?username=necabotheking&hide=jupyter%20notebook&hide_progress=true&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
