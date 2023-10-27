@@ -37,6 +37,7 @@
 ![Dash](https://img.shields.io/badge/Dash-%23323330.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 # 📊 GitHub Stats
 [![Aïcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=necabotheking&show_icons=true&rank_icon=github&hide=contribs,stars,issues&show=reviews,prs_merged&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
+<!--
 [![Top Langs](https://github-readme-stats-one-zeta-45.vercel.app/api/top-langs/?username=necabotheking&hide=jupyter%20notebook&hide_progress=true&theme=dracula)](https://github.com/neacabotheking/github-readme-stats)<br/>
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=necabotheking&theme=tokyonight&hide_border=false)<br/>
