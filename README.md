@@ -3,8 +3,8 @@
 <img align = "right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFvajhnZmljcG9lbG44dzk5Z2tyczV0cWdwZHVpbzJ4dHNwZzBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EgDOxdofT3jIX8Q5lk/giphy.gif" width="250" height="250"/>
 </p> 
 -->
-🔭 I'm currently an MS in Computational Analysis and Public Policy candidate at the University of Chicago <br>
-🌐 I'm a 2023/24 Data Science Fellow at the [Invisible Institute](https://invisible.institute) focusing on police accountability, gender-based violence, and open governance.<br>
+🔭 I'm currently an M.S. in Computational Analysis and Public Policy candidate at the University of Chicago <br>
+🌐 I'm a 2023/24 Data Science Intern at the [Invisible Institute](https://invisible.institute) focusing on police accountability, gender-based violence, and open governance.<br>
 🌱 Currently working on visualizing my Spotify data, developing a playlist recommendation system, and learning JavaScript <br>
 
 
