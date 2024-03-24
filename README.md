@@ -4,7 +4,7 @@
 </p> 
 -->
 🔭 I'm currently an M.S. in Computational Analysis and Public Policy candidate at the University of Chicago <br>
-🌱 Currently working on visualizing my Spotify data, developing a playlist recommendation system, and learning JavaScript <br>
+🌱 Currently working on visualizing my Spotify data, developing an AI playlist recommendation system, and learning Flask <br>
 
 
 
