@@ -4,7 +4,6 @@
 </p> 
 -->
 🔭 I'm currently an M.S. in Computational Analysis and Public Policy candidate at the University of Chicago <br>
-🌐 I'm a 2023/24 Data Science Intern at the [Invisible Institute](https://invisible.institute) focusing on police accountability, gender-based violence, and open governance.<br>
 🌱 Currently working on visualizing my Spotify data, developing a playlist recommendation system, and learning JavaScript <br>
 
 
