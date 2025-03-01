@@ -3,12 +3,13 @@
 <img align = "right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFvajhnZmljcG9lbG44dzk5Z2tyczV0cWdwZHVpbzJ4dHNwZzBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EgDOxdofT3jIX8Q5lk/giphy.gif" width="250" height="250"/>
 </p> 
 -->
-🔭 I'm currently an M.S. in Computational Analysis and Public Policy candidate at the University of Chicago <br>
+💻 Data Scientist, Software Engineer, and National Park Nerd <br>
+🔭 I hold a Masters in Computational Analysis and Public Policy from the University of Chicago, and a Bachelor of Arts in International and Global Studies from the University of Central Florida <br>
 🌱 Currently working on visualizing my Spotify data, developing an AI playlist recommendation system, and learning Flask <br>
 
 
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
