@@ -4,7 +4,7 @@
 </p> 
 -->
 💻 Data Scientist, Software Engineer, and National Park Nerd <br>
-🔭 I hold a Masters in Computational Analysis and Public Policy from the University of Chicago, and a Bachelor of Arts in International and Global Studies from the University of Central Florida <br>
+🔭 I hold a Masters in Computational Analysis and Public Policy from the University of Chicago <br>
 🌱 Currently working on visualizing my Spotify data, developing an AI playlist recommendation system, and learning Flask <br>
 
 
