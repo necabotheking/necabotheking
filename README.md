@@ -3,9 +3,9 @@
 <img align = "right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFvajhnZmljcG9lbG44dzk5Z2tyczV0cWdwZHVpbzJ4dHNwZzBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EgDOxdofT3jIX8Q5lk/giphy.gif" width="250" height="250"/>
 </p> 
 -->
-💻 Data Scientist, Software Engineer, and National Park Nerd <br>
+💻 Data Scientist, Journalist, and National Park Nerd <br>
 🔭 I hold a Masters in Computational Analysis and Public Policy from the University of Chicago <br>
-🌱 Currently working on visualizing my Spotify data, developing an AI playlist recommendation system, and learning Flask <br>
+🌱 Currently working on visualizing my Spotify data, learning cloud run tools, and teaching journalists to web scrape! <br>
 
 
 
